@@ -1,0 +1,57 @@
+from email.errors import MalformedHeaderDefect
+import RPiInput_Cloud
+import CloudServerSubsystem
+import numpy
+import sys
+import statistics
+
+sys.path.append('../Raspberry Pi Subsystem')
+
+RPiInput_Cloud.giveCords()
+
+ldr1 = []
+ultra1 = []
+sm1 = []
+humtem1 = []
+den1 = []
+pres1 = []
+aq1 = []
+maldr = 0
+maultra = 0
+masm = 0
+mahumtem = 0
+maden = 0
+mapres = 0
+maaq = 0
+
+def averaging():
+    input()
+    while ldr, ultra, sm, humtem, den, pres, aq:
+        ldr1.append(ldr)
+        ultra1.append(ultra)
+        sm1.append(sm)
+        humtem1.append(humtem)
+        den1.append(den)
+        pres1.append(pres)
+        aq1.append(aq)
+        maldr = sum(ldr1) / len(ldr1)
+        maultra = sum(ultra1) / len(ultra1)
+        masm = sum(sm1) / len(sm1)
+        mahumtem = sum(humtem1) / len(humtem1)
+        maden = sum(den1) / len(den1)
+        mapres = sum(pres1) / len(pres1)
+        maaq = sum(aq1) / len(aq1)
+        if ldr - statistics.stdev(ldr1) == maldr or ldr + statistics.stdev(ldr1) == maldr:
+            
+        if ultra - statistics.stdev(ultra1) == maultra or ultra + statistics.stdev(ultra1) == maultra:
+            
+        if ldr - statistics.stdev(ultra1) == maldr or ldr + statistics.stdev(ultra1) == maldr:
+            
+        if ldr - statistics.stdev(sm1) == maldr or ldr + statistics.stdev(sm1) == maldr:
+                
+        if statistics.stdev(ultra1)
+        if statistics.stdev(sm1)
+        statistics.stdev(humtem1)
+        statistics.stdev(den1)
+        statistics.stdev(pres1)
+        statistics.stdev(aq1)

@@ -1,0 +1,41 @@
+<svg height="257pt" viewBox="0.00 0.00 317.00 264.00" width="308pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" id="graph0" transform="scale(0.972222 0.972222) rotate(0) translate(4 260)">
+<title>G</title>
+<polygon fill="white" points="-4,4 -4,-260 313,-260 313,4 -4,4" stroke="none"/>
+<!-- 139855075680888 -->
+<g class="node" id="node1"><title>139855075680888</title>
+<polygon fill="none" points="61.5,-219.5 61.5,-255.5 247.5,-255.5 247.5,-219.5 61.5,-219.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="154.5" y="-233.8">densenet121_input: InputLayer</text>
+</g>
+<!-- 139855076573312 -->
+<g class="node" id="node2"><title>139855076573312</title>
+<polygon fill="none" points="90.5,-146.5 90.5,-182.5 218.5,-182.5 218.5,-146.5 90.5,-146.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="154.5" y="-160.8">densenet121: Model</text>
+</g>
+<!-- 139855075680888&#45;&gt;139855076573312 -->
+<g class="edge" id="edge1"><title>139855075680888-&gt;139855076573312</title>
+<path d="M154.5,-219.313C154.5,-211.289 154.5,-201.547 154.5,-192.569" fill="none" stroke="black"/>
+<polygon fill="black" points="158,-192.529 154.5,-182.529 151,-192.529 158,-192.529" stroke="black"/>
+</g>
+<!-- 139855076187384 -->
+<g class="node" id="node3"><title>139855076187384</title>
+<polygon fill="none" points="-2.84217e-14,-73.5 -2.84217e-14,-109.5 309,-109.5 309,-73.5 -2.84217e-14,-73.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="154.5" y="-87.8">global_average_pooling2d: GlobalAveragePooling2D</text>
+</g>
+<!-- 139855076573312&#45;&gt;139855076187384 -->
+<g class="edge" id="edge2"><title>139855076573312-&gt;139855076187384</title>
+<path d="M154.5,-146.313C154.5,-138.289 154.5,-128.547 154.5,-119.569" fill="none" stroke="black"/>
+<polygon fill="black" points="158,-119.529 154.5,-109.529 151,-119.529 158,-119.529" stroke="black"/>
+</g>
+<!-- 139855076187664 -->
+<g class="node" id="node4"><title>139855076187664</title>
+<polygon fill="none" points="110,-0.5 110,-36.5 199,-36.5 199,-0.5 110,-0.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="154.5" y="-14.8">dense: Dense</text>
+</g>
+<!-- 139855076187384&#45;&gt;139855076187664 -->
+<g class="edge" id="edge3"><title>139855076187384-&gt;139855076187664</title>
+<path d="M154.5,-73.3129C154.5,-65.2895 154.5,-55.5475 154.5,-46.5691" fill="none" stroke="black"/>
+<polygon fill="black" points="158,-46.5288 154.5,-36.5288 151,-46.5289 158,-46.5288" stroke="black"/>
+</g>
+</g>
+</svg>

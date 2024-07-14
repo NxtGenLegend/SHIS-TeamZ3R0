@@ -1,0 +1,237 @@
+Humidity = 55%
+Distance: 263 cm
+Soil Moisture Level = 967
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 267 cm
+Soil Moisture Level = 976
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 1249 cm
+Soil Moisture Level = 965
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 964
+Temperature = 24Â°C
+Humidity = 55%
+Distance: 1001 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 1482 cm
+Soil Moisture Level = 962
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 961
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 164 cm
+Soil Moisture Level = 978
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 154 cm
+Soil Moisture Level = 962
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 163 cm
+Soil Moisture Level = 968
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 1578 cm
+Soil Moisture Level = 962
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 262 cm
+Soil Moisture Level = 962
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 1005 cm
+Soil Moisture Level = 977
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 265 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 994 cm
+Soil Moisture Level = 975
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 265 cm
+Soil Moisture Level = 991
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 265 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 265 cm
+Soil Moisture Level = 961
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 964
+Temperature = 23Â°C
+Humidity = 55%
+Distance: 284 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 962
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 964
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 57 cm
+Soil Moisture Level = 964
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 264 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 1013 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1496 cm
+Soil Moisture Level = 948
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 263 cm
+Soil Moisture Level = 956
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 263 cm
+Soil Moisture Level = 974
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 263 cm
+Soil Moisture Level = 961
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1758 cm
+Soil Moisture Level = 962
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1486 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 16 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 17 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 55%
+Distance: 1039 cm
+Soil Moisture Level = 963
+Temperature = 24Â°C
+Humidity = 56%
+Distance: 1484 cm
+Soil Moisture Level = 963
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 582 cm
+Soil Moisture Level = 964
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 683 cm
+Soil Moisture Level = 978
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 59 cm
+Soil Moisture Level = 960
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1240 cm
+Soil Moisture Level = 965
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 264 cm
+Soil Moisture Level = 972
+Temperature = 26Â°C
+Humidity = 57%
+Distance: 265 cm
+Soil Moisture Level = 982
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 262 cm
+Soil Moisture Level = 959
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 38 cm
+Soil Moisture Level = 949
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1503 cm
+Soil Moisture Level = 579
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1485 cm
+Soil Moisture Level = 588
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1489 cm
+Soil Moisture Level = 591
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1502 cm
+Soil Moisture Level = 597
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 265 cm
+Soil Moisture Level = 588
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 263 cm
+Soil Moisture Level = 965
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 264 cm
+Soil Moisture Level = 966
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 264 cm
+Soil Moisture Level = 967
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1255 cm
+Soil Moisture Level = 967
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1482 cm
+Soil Moisture Level = 967
+Temperature = 22Â°C
+Humidity = 56%
+Distance: 1446 cm
+Soil Moisture Level = 966
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1531 cm
+Soil Moisture Level = 969
+Temperature = 25Â°C
+Humidity = 56%
+Distance: 1490 cm
+Soil Moisture Level = 968
+Temperature = 25Â°C
+Humidity = 56%
